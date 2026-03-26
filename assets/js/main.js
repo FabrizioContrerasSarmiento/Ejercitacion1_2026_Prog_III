@@ -225,4 +225,4 @@ const mostrarClima = () => {
   return `El clima en${ciudad} es de ${temperatura} ${unidad}.`;
 }
 
-console.log(mostrarClima())
+console.log(mostrarClima());
