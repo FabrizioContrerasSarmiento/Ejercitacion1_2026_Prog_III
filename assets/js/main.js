@@ -212,7 +212,7 @@ const year21 = songs[randomIndex3].year;
 
 console.log(`Título: ${titulo21}, Artista: ${artista21}, Año: ${year21}`)
 
-//22.Mostrar el mensaje 'El clima en [ciudad] es de [temperatura] [unidad]'
+//22.Mostrar el mensaje 'El clima en [ciudad] es de [temperatura]fasfa [unidad]'
 
 const clima2 = {
   ciudad: "buenos Aires",
