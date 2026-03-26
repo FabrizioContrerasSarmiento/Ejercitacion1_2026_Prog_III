@@ -214,7 +214,7 @@ console.log(`Título: ${titulo21}, Artista: ${artista21}, Año: ${year21}`)
 
 //22.Mostrar el mensaje 'El clima en [ciudad] es de [temperatura] [unidad]'
 
-const clima = {
+const clima2 = {
   ciudad: "buenos Aires",
   temperatura: 30,
   unidad: "Grados Centígrados",
